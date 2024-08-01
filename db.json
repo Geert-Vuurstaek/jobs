@@ -1,30 +1,31 @@
-{"jobs": [
-    {
-        "firstName": "John",
-        "lastName": "Doe",
-        "birthdate": "15-05-1990",
-        "gender": "Male",
-        "email": "john.doe@example.com",
-        "job": "Farm Manager",
-        "motivation": "I have extensive experience managing large farms, focusing on sustainable practices and efficient resource management. Joining Sunny Meadows Farm would allow me to contribute to a forward-thinking organization dedicated to high-quality agricultural production."
-    },
-    {
-        "firstName": "Jane",
-        "lastName": "Smith",
-        "birthdate": "22-08-1985",
-        "gender": "Female",
-        "email": "jane.smith@example.com",
-        "job": "Organic Farm Worker",
-        "motivation": "With over a decade of experience in organic farming, I am excited to apply my knowledge and skills at Sunny Meadows Farm. I am passionate about sustainable agriculture and look forward to contributing to your team."
-    },
-    {
-        "firstName": "Alice",
-        "lastName": "Johnson",
-        "birthdate": "30-11-1992",
-        "gender": "Female",
-        "email": "alice.johnson@example.com",
-        "job": "Customer Service Representative",
-        "motivation": "My background in customer service, combined with a strong understanding of agricultural products, makes me an excellent fit for your team. I am committed to providing exceptional service and ensuring customer satisfaction."
-    }
-]
+{
+    "jobs": [
+        {
+            "firstName": "John",
+            "lastName": "Doe",
+            "birthdate": "15-05-1990",
+            "gender": "Male",
+            "email": "john.doe@example.com",
+            "job": "Farm Manager",
+            "motivation": "I have extensive experience managing large farms, focusing on sustainable practices and efficient resource management. Joining Sunny Meadows Farm would allow me to contribute to a forward-thinking organization dedicated to high-quality agricultural production."
+        },
+        {
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "birthdate": "22-08-1985",
+            "gender": "Female",
+            "email": "jane.smith@example.com",
+            "job": "Organic Farm Worker",
+            "motivation": "With over a decade of experience in organic farming, I am excited to apply my knowledge and skills at Sunny Meadows Farm. I am passionate about sustainable agriculture and look forward to contributing to your team."
+        },
+        {
+            "firstName": "Alice",
+            "lastName": "Johnson",
+            "birthdate": "30-11-1992",
+            "gender": "Female",
+            "email": "alice.johnson@example.com",
+            "job": "Customer Service Representative",
+            "motivation": "My background in customer service, combined with a strong understanding of agricultural products, makes me an excellent fit for your team. I am committed to providing exceptional service and ensuring customer satisfaction."
+        }
+    ]
 }
