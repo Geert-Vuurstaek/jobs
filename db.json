@@ -1,4 +1,4 @@
-[
+{"jobs": [
     {
         "firstName": "John",
         "lastName": "Doe",
@@ -27,3 +27,4 @@
         "motivation": "My background in customer service, combined with a strong understanding of agricultural products, makes me an excellent fit for your team. I am committed to providing exceptional service and ensuring customer satisfaction."
     }
 ]
+}
